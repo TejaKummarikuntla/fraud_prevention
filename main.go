@@ -1,5 +1,5 @@
 package main
-
+// main.go is not required to understand the project
 import (
 	"io"
 	"net/http"
